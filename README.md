@@ -1,0 +1,1 @@
+Repository for our paper "Evaluating Explainability of Graph Neural Networks for Network Intrusion Detection with Structural Attacks" accepted at [ITASEC25](https://2025.itasec.it).
